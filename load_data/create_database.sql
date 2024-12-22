@@ -1,0 +1,4 @@
+-- CREATE DATABASE sql_course;
+CREATE DATABASE demo;
+
+-- DROP DATABASE IF EXISTS sql_course;
