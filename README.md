@@ -1,4 +1,4 @@
-# **README: High-Paying Remote Data Analyst Jobs Analysis**
+# **README: Skills and Demand Analysis on Data Analyst Jobs Analysis**
 
 ## **Project Overview**
 This project aims to analyze **high-paying remote Data Analyst jobs**, identifying key **industry trends**, **salary insights**, and **in-demand skills**. The analysis provides insights into which industries offer the best compensation and how specific technical skills impact earnings.
