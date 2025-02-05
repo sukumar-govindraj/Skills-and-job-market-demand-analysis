@@ -1,5 +1,6 @@
-# **README: Skills and Demand Analysis on Data Analyst Jobs Analysis**
 ![image](https://github.com/user-attachments/assets/55fdbf14-03c8-490e-bcd7-2af2d73bf30a)
+
+# **Skills and Demand Analysis on Data Analyst Jobs Analysis**
 
 ## **Project Overview**
 This project aims to analyze **high-paying remote Data Analyst jobs**, identifying key **industry trends**, **salary insights**, and **in-demand skills**. The analysis provides insights into which industries offer the best compensation and how specific technical skills impact earnings.
